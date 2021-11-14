@@ -1,0 +1,40 @@
+2021-11-13 23:09:31,076 INFO com.example.demo.controllers.OrderController [main] submit user test
+2021-11-13 23:09:31,092 ERROR com.example.demo.controllers.UserController [main] user is not in our database
+2021-11-13 23:09:31,092 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:09:31,092 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:09:31,092 INFO com.example.demo.controllers.UserController [main] find user by id test
+2021-11-13 23:09:31,092 ERROR com.example.demo.controllers.UserController [main] the password length is less than 8 characters short 
+2021-11-13 23:09:31,092 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:09:31,092 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:12:55,032 INFO com.example.demo.controllers.OrderController [main] submit user test
+2021-11-13 23:12:55,047 ERROR com.example.demo.controllers.UserController [main] user is not in our database
+2021-11-13 23:12:55,047 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:12:55,047 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:12:55,047 INFO com.example.demo.controllers.UserController [main] find user by id test
+2021-11-13 23:12:55,063 ERROR com.example.demo.controllers.UserController [main] the password length is less than 8 characters short 
+2021-11-13 23:12:55,063 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:12:55,063 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:13:08,488 INFO com.example.demo.controllers.OrderController [main] submit user test
+2021-11-13 23:13:08,504 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:13:08,504 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:13:08,504 INFO com.example.demo.controllers.UserController [main] find user by id test
+2021-11-13 23:13:08,504 ERROR com.example.demo.controllers.UserController [main] the password length is less than 8 characters short 
+2021-11-13 23:13:08,504 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:13:08,504 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:17:53,126 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:17:53,126 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:17:53,142 INFO com.example.demo.controllers.UserController [main] find user by id test
+2021-11-13 23:17:53,142 ERROR com.example.demo.controllers.UserController [main] the password length is less than 8 characters short 
+2021-11-13 23:17:53,142 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:17:53,142 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:23:27,551 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:23:27,551 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:23:27,567 ERROR com.example.demo.controllers.UserController [main] the password length is less than 8 characters short 
+2021-11-13 23:23:27,567 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:23:27,567 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:24:07,112 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:24:07,112 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
+2021-11-13 23:24:07,129 INFO com.example.demo.controllers.UserController [main] find user by id testUser
+2021-11-13 23:24:07,144 ERROR com.example.demo.controllers.UserController [main] the password length is less than 8 characters short 
+2021-11-13 23:24:07,144 ERROR com.example.demo.controllers.UserController [main] the password does not equal confirmed password
+2021-11-13 23:24:07,144 ERROR com.example.demo.controllers.UserController [main] Can't create a new user
